@@ -23,6 +23,8 @@ Supported languages:
 - Python
 - Ruby
   - ERB
+- Rust
+  - Clippy
 - Sass / SCSS
 - Swift
 

@@ -34,3 +34,6 @@
 -
   name: Shell
   logo: languages/shell.svg
+-
+  name: Rust
+  logo: languages/rust.svg
